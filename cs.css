@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+container u li a{
+    text-decoration: none;
+    padding: 10px;
+  
+}
+
+.container{
+    
+    display: flex;
+    background-color: black;
+    padding: 0px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imagem img{
+    max-width: 70px;
+    top: 10px;
+}
+
+a:hover{
+    color: blue;
+    transition: 0.5s;
+    
+    
+}
+
+li{
+    padding-right: 30px;
+    list-style-type: none;
+    font-size: 25px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 25px;
+    
+}
+
+ul{
+    display: flex;
+    
+}
