@@ -24,6 +24,7 @@ function retornaHora(data){
         second:'2-digit',
         hour:'2-digit',
         minute:'2-digit'
+
     })
 }
 
@@ -37,6 +38,6 @@ try{
 }catch(err){
     // console.log(err);
 }finally{
-    console.log('Tenha um bom dia');
+    console.log('Tenha um bom dia')
 }
 
