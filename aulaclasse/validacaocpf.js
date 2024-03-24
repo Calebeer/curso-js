@@ -25,7 +25,7 @@ class ValidaCPF{
     }
 
     éSequencia(){
-        return this.cpfLimpo.charAt(0).repeat(11) === this.cpfLimpo;
+        return this.cpffLimpo.charAt(0).repeat(11) === this.cpfLimpo;
     }
 
     valida(){
